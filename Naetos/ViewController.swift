@@ -5,8 +5,9 @@
 //  Created by Daisuke Doi on 2022/09/19.
 //
 
-//2022.11.28 for comitting test of Git
+//2022.11.28 for comitting test of Git ver1 successed
 
+//2022.11.28 for comitting test of Git ver2 (connect to remote)
 
 
 import UIKit
